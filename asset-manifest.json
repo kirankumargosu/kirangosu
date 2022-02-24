@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kirangosu/static/css/main.c570baaf.css",
-    "main.js": "/kirangosu/static/js/main.95973f8e.js",
+    "main.js": "/kirangosu/static/js/main.fc87927b.js",
     "index.html": "/kirangosu/index.html",
     "static/media/resume.pdf": "/kirangosu/static/media/resume.31d6cfe0d16ae931b73c.pdf",
     "main.c570baaf.css.map": "/kirangosu/static/css/main.c570baaf.css.map",
-    "main.95973f8e.js.map": "/kirangosu/static/js/main.95973f8e.js.map"
+    "main.fc87927b.js.map": "/kirangosu/static/js/main.fc87927b.js.map"
   },
   "entrypoints": [
     "static/css/main.c570baaf.css",
-    "static/js/main.95973f8e.js"
+    "static/js/main.fc87927b.js"
   ]
 }
