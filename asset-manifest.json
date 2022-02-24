@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/kirangosu/static/css/main.073c9b0a.css",
-    "main.js": "/kirangosu/static/js/main.02abec9d.js",
-    "static/js/787.4c8fbbf1.chunk.js": "/kirangosu/static/js/787.4c8fbbf1.chunk.js",
-    "static/media/logo.svg": "/kirangosu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/kirangosu/static/css/main.c570baaf.css",
+    "main.js": "/kirangosu/static/js/main.95973f8e.js",
     "index.html": "/kirangosu/index.html",
-    "main.073c9b0a.css.map": "/kirangosu/static/css/main.073c9b0a.css.map",
-    "main.02abec9d.js.map": "/kirangosu/static/js/main.02abec9d.js.map",
-    "787.4c8fbbf1.chunk.js.map": "/kirangosu/static/js/787.4c8fbbf1.chunk.js.map"
+    "static/media/resume.pdf": "/kirangosu/static/media/resume.31d6cfe0d16ae931b73c.pdf",
+    "main.c570baaf.css.map": "/kirangosu/static/css/main.c570baaf.css.map",
+    "main.95973f8e.js.map": "/kirangosu/static/js/main.95973f8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.02abec9d.js"
+    "static/css/main.c570baaf.css",
+    "static/js/main.95973f8e.js"
   ]
 }
